@@ -1,1 +1,1 @@
-# stroe
+# stroes
